@@ -1,0 +1,16 @@
+/* Add application styles & imports to this file! */
+body {
+  font-family: monospace;
+}
+input {
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+.error {
+  background-color: red;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+button {
+  margin: 0.5rem 0;
+}
